@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Has sido troleado</title>
+    <style>
+        body {
+            background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+        }
+        
+        .trolleo {
+            font-size: 60px;
+            text-align: center;
+            margin-top: 50vh;
+            transform: translateY(-50%);
+        }
+    </style>
+</head>
+<body>
+    <div class="trolleo">
+        <p>Has sido troleado</p>
+        <iframe width="640" height="360" src="https://www.youtube.com/embed/BtLSaxRnIhc" frameborder="0" allowfullscreen></iframe>
+    </div>
+</body>
+</html>
